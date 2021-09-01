@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/HAjhcfSu6vcgHMIYpK/giphy.gif">
 </p>
   
-<p align='center'>Website de envio de e-mail feito durante o curso de Desenvolvimento Web Completo.</p>
+<p align='center'>Website de envio de e-mail desenvolvido durante o curso de Desenvolvimento Web Completo.</p>
   
 <h2>💻 Tecnologias </h2>
   
